@@ -7,3 +7,8 @@ World Spaceで用いるUIの背景向けです。
 角の半径、線の太さをマテリアルパラメータから変更できます。
 CanvasのScaleは0.01で使用することを想定しています。
 新規作成したPanelのImageコンポーネントにdummy.bmpを指定、Pixels Per Unit Multiplierを2に設定してください。
+ASEで作成しています。
+
+Copyright (c) 2023 @nyakome306
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
